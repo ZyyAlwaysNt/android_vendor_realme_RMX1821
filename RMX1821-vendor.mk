@@ -1218,6 +1218,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib/libpowerhalwrap_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpowerhalwrap_vendor.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libpq_cust_base.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpq_cust_base.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libpq_prot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpq_prot.so \
+    vendor/realme/RMX1821/proprietary/vendor/lib/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-3.9.1.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libreverb.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/librgbwlightsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/librgbwlightsensor.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/librpmbengclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/librpmbengclient.so \
@@ -1648,6 +1649,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib64/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCL.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/libPerfectlyClearCrux.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libPerfectlyClearCrux.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/libPolarrRender.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libPolarrRender.so \
+    vendor/realme/RMX1821/proprietary/vendor/lib64/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite-3.9.1.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/libRbsFlow.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libRbsFlow.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/libSonyIMX230PdafLibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSonyIMX230PdafLibrary.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/libSonyIMX230PdafLibraryWrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSonyIMX230PdafLibraryWrapper.so \
