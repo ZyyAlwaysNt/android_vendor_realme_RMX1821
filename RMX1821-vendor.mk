@@ -803,6 +803,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib/gc13c33_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc13c33_mipi_raw_tuning.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/gc2375_jk_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc2375_jk_mipi_raw_tuning.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.audio@5.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio@5.0-impl-mediatek.so \
+    vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.audio.effect@5.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio.effect@5.0-impl.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.memtrack@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.memtrack@1.0-impl.so \
@@ -1336,6 +1337,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib64/gc2375_jk_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc2375_jk_mipi_raw_IdxMgr.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/gc2375_jk_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc2375_jk_mipi_raw_tuning.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so \
+    vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.audio.effect@5.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio.effect@5.0-impl.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.4-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.4-impl-mediatek.so \
