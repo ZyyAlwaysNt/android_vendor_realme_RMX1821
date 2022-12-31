@@ -784,7 +784,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/android.hardware.power@1.3-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.power@1.3-impl-mediatek.so \
-    vendor/realme/RMX1821/proprietary/vendor/lib/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.bluetooth.default.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/audio.primary.mt6771.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6771.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/audio.r_submix.mt6771.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6771.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/hw/audio.usb.mt6771.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.mt6771.so \
@@ -1293,7 +1292,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.4-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.4-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.gnss@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gnss@2.0-impl-mediatek.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/android.hardware.power@1.3-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.power@1.3-impl-mediatek.so \
-    vendor/realme/RMX1821/proprietary/vendor/lib64/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.bluetooth.default.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/audio.primary.mt6771.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6771.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/audio.r_submix.mt6771.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.r_submix.mt6771.so \
     vendor/realme/RMX1821/proprietary/vendor/lib64/hw/audio.usb.mt6771.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.usb.mt6771.so \
