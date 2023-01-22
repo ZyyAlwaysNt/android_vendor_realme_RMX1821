@@ -727,17 +727,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/firmware/customfilter/catcher_filter_1_ulwctg_n__Default.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/customfilter/catcher_filter_1_ulwctg_n__Default.bin \
     vendor/realme/RMX1821/proprietary/vendor/firmware/customfilter/catcher_filter_1_ulwctg_n_meta.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/customfilter/catcher_filter_1_ulwctg_n_meta.bin \
     vendor/realme/RMX1821/proprietary/vendor/firmware/em_filter_1_ulwctg_n.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/em_filter_1_ulwctg_n.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/HYNIX-HCG8a4.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/HYNIX-HCG8a4.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/HYNIX-hB8aP>.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/HYNIX-hB8aP>.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-3H6CMB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-3H6CMB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-DD68MB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-DD68MB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-DH6DMB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-DH6DMB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-GD6BMB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-GD6BMB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-RD64MB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-RD64MB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-RH64AB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-RH64AB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/SAMSUNG-RH64MB.bin_crc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/SAMSUNG-RH64MB.bin_crc.bin \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/move_target_emmc_fw_to_opporeserve1.sh:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/move_target_emmc_fw_to_opporeserve1.sh \
-    vendor/realme/RMX1821/proprietary/vendor/firmware/emmc/move_target_emmc_fw_to_reserve4.sh:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc/move_target_emmc_fw_to_reserve4.sh \
     vendor/realme/RMX1821/proprietary/vendor/firmware/fm_cust.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/fm_cust.cfg \
     vendor/realme/RMX1821/proprietary/vendor/firmware/gt1151_default_firmware2.img:$(TARGET_COPY_OUT_VENDOR)/firmware/gt1151_default_firmware2.img \
     vendor/realme/RMX1821/proprietary/vendor/firmware/mt6631_fm_v1_coeff.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mt6631_fm_v1_coeff.bin \
