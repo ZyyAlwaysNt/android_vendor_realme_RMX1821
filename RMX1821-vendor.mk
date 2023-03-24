@@ -406,28 +406,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/megviisegment_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/megviisegment_model \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/merged_model_post:$(TARGET_COPY_OUT_VENDOR)/etc/camera/merged_model_post \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/model_mdl_cache:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_mdl_cache \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/17061/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/17061/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/17061/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/17061/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/17197/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/17197/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/17197/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/17197/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/17331/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/17331/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/17331/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/17331/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18161/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18161/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18161/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18161/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18311/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18311/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18311/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18311/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18531/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18531/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18531/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18531/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18601/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18601/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18601/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18601/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18611/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18611/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/18611/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/18611/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/19661/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/19661/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/19661/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/19661/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/20671/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/20671/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/dirac/20671/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dirac/20671/diracvdd.bin \
-    vendor/realme/RMX1821/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
-    vendor/realme/RMX1821/proprietary/vendor/etc/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/diracvdd.bin \
     vendor/realme/RMX1821/proprietary/vendor/etc/ecc_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list.xml \
     vendor/realme/RMX1821/proprietary/vendor/etc/ecc_list_OP01.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP01.xml \
     vendor/realme/RMX1821/proprietary/vendor/etc/ecc_list_OP02.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP02.xml \
@@ -1035,7 +1013,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib/libCamera_sp2509hlmipiraw_Scene_Capture.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCamera_sp2509hlmipiraw_Scene_Capture.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libDR.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDR.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libDefaultFpsActor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDefaultFpsActor.so \
-    vendor/realme/RMX1821/proprietary/vendor/lib/libDiracAPI_SHARED.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDiracAPI_SHARED.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libFrameRecord.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFrameRecord.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libGCore13C33_4Cell.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGCore13C33_4Cell.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/libHEVCdec_sa.ca7.android.so:$(TARGET_COPY_OUT_VENDOR)/lib/libHEVCdec_sa.ca7.android.so \
@@ -1235,7 +1212,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/lib/s5k3l6_sub_ly_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3l6_sub_ly_mipi_raw_tuning.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/s5k3l6_sub_qt_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3l6_sub_qt_mipi_raw_tuning.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/sensors.ap.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ap.so \
-    vendor/realme/RMX1821/proprietary/vendor/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdirac.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/sp2509_hl_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/sp2509_hl_mipi_raw_tuning.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/vendor.mediatek.hardware.audio@5.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.audio@5.1.so \
     vendor/realme/RMX1821/proprietary/vendor/lib/vendor.mediatek.hardware.camera.atms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.camera.atms@1.0.so \
