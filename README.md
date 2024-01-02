@@ -1,0 +1,1 @@
+# vendor_realme_rmx1821
